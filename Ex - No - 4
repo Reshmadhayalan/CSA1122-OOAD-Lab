@@ -1,0 +1,26 @@
+STOCK MAINTAINANCE SYSTEM
+
+AIM:
+To draw the diagrams [ usecase, activity, sequence, collaboration, class, collaboration,
+deployment, state chart , package] for the Stock maintainence system.
+
+HARDWARE REQUIREMENTS:
+Intel Pentium Processor I3/I5
+
+SOFTWARE REQUIREMENTS:
+Rational rose / Argo UML
+
+PROBLEM ANALYSIS AND PROJECT PLANNING :
+The Stock Maintenance System, initial requirement to develop the project about the
+mechanism of the Stock Maintenance System is caught from the customer. The requirement are
+analyzed and refined which enables the end users to efficiently use Stock Maintenance System.
+The complete project is developed after the whole project analysis explaining about the scope
+and the project statement is prepared.
+
+PROJECT DESCRIPTION:
+This software is designed for supporting the computerized stock maintainence System .In
+this system, the customer can place order and purchase items with the aid of the stock dealer and
+central stock system. This orders are verified and the items are delivered to the customer.
+
+REFERENCES:
+IEEE Software Requirement Specification format.
