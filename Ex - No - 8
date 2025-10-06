@@ -1,0 +1,24 @@
+AIM:
+ To draw the diagrams [ Usecase, Class, Activity, Sequence, Collaboration, State chart,
+Deployment, Component, package] for software personnel management system.
+
+SOFTWARE REQUIREMENTS SPECIFICATION:
+SOFTWARE REQUIREMENTS SPECIFICATION
+Hardware Requirements
+Software Requirements
+Project description
+Reference
+
+HARDWARE REQUIREMENTS:
+ Intel Pentium Processor I3/I5
+
+SOFTWARE REQUIREMENTS:
+ Rational Rose/Argo UML
+
+PROJECT DESCRIPTION:
+ This software is designed for the process of knowing the details of a person works in a
+software company. The details are being stored in the Central Management System for the cross
+checking the person’s details.
+
+REFERENCES:
+IEEE Software Requirement Specification format.
